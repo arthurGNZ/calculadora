@@ -1,4 +1,4 @@
-package calculadora.operacoes;
+package operacoes;
 
 public abstract class Operacao {
     private String simbolo;
